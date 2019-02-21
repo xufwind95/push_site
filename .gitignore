@@ -110,3 +110,4 @@ admin_env/
 db.sqlite3.bak
 */migrations
 .idea/
+project-master.pid
