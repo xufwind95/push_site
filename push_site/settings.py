@@ -133,7 +133,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = '/Users/cpx/PythonWorkSpace/PushSite/local_static_file/'
+# STATIC_ROOT = '/var/push_site/local_static_file/'
 MEDIA_ROOT = '/Users/cpx/PythonWorkSpace/PushSite/local_media_file/'
+# MEDIA_ROOT = '/var/push_site/local_media_file/'
 MEDIA_URL = '/media/'
 
 
